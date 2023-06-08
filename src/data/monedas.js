@@ -1,0 +1,23 @@
+const monedas=[
+    {id: 'USD', nombre: 'Dolar Estadounidense'},
+    {id: 'MXN', nombre: 'Peso Mexicano'},
+    {id: 'EUR', nombre: 'Euro'},
+    {id: 'JPY', nombre: 'Yen Japones'},
+    {id: 'GBP', nombre: 'Libra Esterliba'},
+    {id: 'CNY', nombre: 'Yuan Chino'},
+    {id: 'AUD', nombre: 'Dolar Australiano'},
+    {id: 'CAD', nombre: 'Dolar Canadiense'},
+    {id: 'CHF', nombre: 'Franco Suizo'},
+    {id: 'HKD', nombre: 'Dolar de Hong Kong'},
+    {id: 'SGD', nombre: 'Dolar de Singapur'},
+    {id: 'SEK', nombre: 'Corona Sueca'},
+    {id: 'KRW', nombre: 'Won Surcoreano'},
+    {id: 'NOK', nombre: 'Corona Noruega'},
+    {id: 'NZD', nombre: 'Dolar Neozelandes'},
+    {id: 'INR', nombre: 'Rupia India'},
+    {id: 'TWD', nombre: 'Nuevo Dolar Taiwanes'},
+    {id: 'ZAR', nombre: 'Rand Sudafricano'},
+    {id: 'BRL', nombre: 'Real Brasileño'},
+    {id: 'DKK', nombre: 'Corona Danesa'},
+  ]
+export {monedas}
